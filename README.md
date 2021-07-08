@@ -1,2 +1,2 @@
-# Project-0
-Recreate the aesthetics of the design we were given on figma
+# Project-0_work
+Work on the project until it is ready to be merged with the main one
