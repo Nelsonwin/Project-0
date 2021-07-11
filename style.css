@@ -1,14 +1,45 @@
-ul {
-    list-style-type: none;
-  }
-  
-  li {
+li {
     float: right;
     color: #095953;
-  ;
     text-align: center;
     padding-left: 32px;
     padding-top: 5px;
+    font-size: 24px;
     font-family: Fira Sans;
   }
-  
+
+ul {
+    list-style-type: none;
+    font-weight: normal;
+  }
+
+
+h3 {
+    color: #095953;
+    font-size: 32px;
+    font-family: Fira Sans;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    color: #547B78;
+    font-weight: 500;
+    font-family: 'Poppins';
+}
+
+button {
+    background-color: #095953;
+    color: white;
+    font-weight: bold;
+    width: 295px;
+    height: 77px;
+    border: none;
+    font-size: 24px;
+    font-family: Fira Sans;
+}
+
+.bodyImage {
+    width: 491px;
+    height: 375px;
+}
